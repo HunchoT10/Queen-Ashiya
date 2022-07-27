@@ -39,13 +39,13 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['Didula Rashmika']
+global.owner = ['Huncho']
 
 global.premium = ['💗Queen Ashiya🧚']
 
-global.ownernomer = '94741671668'
+global.ownernomer = '2348071758720'
 
-global.ownername = 'Didula Rashmika'
+global.ownername = 'Huncho'
 
 global.botname = '💗Queen Ashiya🧚'
 
@@ -59,9 +59,9 @@ global.sc = 'https://github.com/BlackPanther-svg/Queen-Ashiya'
 
 global.myweb = 'https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA'
 
-global.packname = '💗Queen Ashiya🧚'
+global.packname = 'Von better'
 
-global.author = '💗Queen Ashiya🧚'
+global.author = 'HUNCHO is goated'
 
 global.sessionName = 'session'
 
